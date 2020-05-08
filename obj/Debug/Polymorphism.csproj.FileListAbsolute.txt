@@ -1,0 +1,6 @@
+E:\pemrograman\OOP Bagian 3\Polymorphism\bin\Debug\Polymorphism.exe.config
+E:\pemrograman\OOP Bagian 3\Polymorphism\bin\Debug\Polymorphism.exe
+E:\pemrograman\OOP Bagian 3\Polymorphism\bin\Debug\Polymorphism.pdb
+E:\pemrograman\OOP Bagian 3\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+E:\pemrograman\OOP Bagian 3\Polymorphism\obj\Debug\Polymorphism.exe
+E:\pemrograman\OOP Bagian 3\Polymorphism\obj\Debug\Polymorphism.pdb
